@@ -1,0 +1,30 @@
+[submodule "dependency.src/botan"]
+	path = dependency.src/botan
+	url = https://github.com/randombit/botan
+[submodule "dependency.src/brotli"]
+	path = dependency.src/brotli
+	url = https://github.com/google/brotli
+[submodule "dependency.src/c-ares"]
+	path = dependency.src/c-ares
+	url = https://github.com/c-ares/c-ares
+[submodule "dependency.src/cpptrace"]
+	path = dependency.src/cpptrace
+	url = https://github.com/jeremy-rifkin/cpptrace
+[submodule "dependency.src/hiredis"]
+	path = dependency.src/hiredis
+	url = https://github.com/redis/hiredis
+[submodule "dependency.src/jsoncpp"]
+	path = dependency.src/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp
+[submodule "dependency.src/spdlog"]
+	path = dependency.src/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "dependency.src/trantor"]
+	path = dependency.src/trantor
+	url = https://github.com/an-tao/trantor
+[submodule "dependency.src/yaml-cpp"]
+	path = dependency.src/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp
+[submodule "dependency.src/zlib"]
+	path = dependency.src/zlib
+	url = https://github.com/madler/zlib
